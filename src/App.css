@@ -13,6 +13,7 @@
   }
 }
 
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -27,6 +28,42 @@
 .App-link {
   color: #61dafb;
 }
+.img{
+  width: 450px;
+  height: 200px;
+  position: top;
+  top: 10px;
+
+}
+
+.prize {
+
+  position: sticky;
+  top: 5  0px;
+
+
+}
+
+.car{
+
+}
+
+.bad {
+  width: 80px;
+  height: 40px;
+  border-radius: 10px;
+  position: absolute;
+  left: 105px;
+  top: 5px;
+  bottom: 10px;
+}
+
+
+.d-flex{
+  position: relative;
+  top: 3px ;
+}
+
 
 @keyframes App-logo-spin {
   from {
